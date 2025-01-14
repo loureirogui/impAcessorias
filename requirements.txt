@@ -1,0 +1,4 @@
+selenium
+openpyxl
+python-docx
+webdriver-manager
