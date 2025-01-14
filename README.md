@@ -50,8 +50,9 @@ O projeto utiliza o webdriver-manager para gerenciar automaticamente o driver do
 
 Configuração do Arquivo Excel
 
-O projeto utiliza uma planilha Excel para entrada de dados. Um modelo está incluído no diretório do projeto: modelo_dados.xlsx.
-
+O projeto utiliza uma planilha Excel para entrada de dados. Um modelo está incluído no diretório do projeto: Planilha modelo Acessórias.xlsx.
+Abaixo um vídeo explicativo sobre como preencher a planilha:
+https://drive.google.com/file/d/1O_lrB4qNIhpPeFVy8JA8dFk6VvRuRQxf/view?usp=drive_link
 
 
 
